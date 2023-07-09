@@ -8,15 +8,12 @@ int main() {
 		<< "A - B = " << a - b << "\n"
 		<< "A * B = " << a * b << "\n"
 		<< "A / B = " << a / b << "\n";
-<<<<<<< HEAD
 	if (a > b)
 		cout << "max = " << a;
 	else
 		cout << "max = " << b;
-=======
 	if (a < b)
 		cout << "min = " << a;
 	else
 		cout << "min = " << b;
->>>>>>> e10a578 (code: добавлен вывод минимум)
 }
